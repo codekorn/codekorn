@@ -5,7 +5,7 @@
 
 <style>
 p{
-    color:red;
+   text-align: justify;
 }
 </style>
 
